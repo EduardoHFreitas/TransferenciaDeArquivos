@@ -8,10 +8,10 @@ import java.util.Map;
 
 import javax.swing.JFrame;
 
-import br.univel.common.Arquivo;
-import br.univel.common.Cliente;
-import br.univel.common.IServer;
-import br.univel.common.TipoFiltro;
+import br.univel.jshare.comum.Arquivo;
+import br.univel.jshare.comum.Cliente;
+import br.univel.jshare.comum.IServer;
+import br.univel.jshare.comum.TipoFiltro;
 
 public class MainServidor {
 	
